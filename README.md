@@ -1,6 +1,6 @@
 # Memory Game
 
-<img align="center" height="400" width="260" src="/image/jogodamemoria.png">
+<img align="center" height="500" width="250" src="/image/jogodamemoria.png">
 
 ## Tema
 - Água
